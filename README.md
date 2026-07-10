@@ -32,3 +32,6 @@ A Unity VR project (Unity **6000.3.11f1**) implementing Gorilla-Tag-style, hand-
 ## Controls
 
 Grip and move your controllers like climbing holds — grab a surface with either hand to pull yourself along it, Gorilla Tag-style. Releasing while moving carries your momentum into a jump/throw.
+
+This next text is a note from PBImp:
+you can also use meta quest link app with steamvr and use that to play it
