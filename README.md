@@ -1,5 +1,9 @@
 # vrgameyay
 
+silli little gorilla tag fangame i made with Claude.
+i used ai :(
+sorry
+
 A Unity VR project (Unity **6000.3.11f1**) implementing Gorilla-Tag-style, hand-over-hand climbing locomotion for the Meta Quest, built with XR Interaction Toolkit + OpenXR and URP.
 
 ## Building the APK
